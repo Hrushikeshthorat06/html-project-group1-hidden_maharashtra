@@ -37,7 +37,7 @@ Our aim is to promote tourism and showcase the natural beauty, history, culture,
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](./Images/Home_page.png)
+![Home Page](./images/home-img.png)
 
 ## 📁 Folder Structure
 
