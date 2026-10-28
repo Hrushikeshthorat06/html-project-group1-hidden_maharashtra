@@ -18,10 +18,8 @@ Our aim is to promote tourism and showcase the natural beauty, history, culture,
 - 🌊 Find Beautiful Waterfalls
 - 🛕 Explore Temples and Peaceful Villages
 - 🍛 Discover Famous Maharashtrian Foods
-- 🗺️ Explore Travel Routes
-- 🖼️ Photo Gallery
 - 📍 Destination Information and Travel Tips
-- 📩 Contact Page
+- 📩 About Page
 - 🔐 Login and Registration Pages
 
 ## 🛠️ Technologies Used
