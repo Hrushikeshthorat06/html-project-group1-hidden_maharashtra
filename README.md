@@ -31,7 +31,7 @@ Our aim is to promote tourism and showcase the natural beauty, history, culture,
 ## 🚀 Deployments
 
 - [Netlify](https://hiddenmaharashtra.netlify.app/)
-- 
+
 ## 📸 Screenshots
 
 ### Home Page
