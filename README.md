@@ -41,7 +41,7 @@ Our aim is to promote tourism and showcase the natural beauty, history, culture,
 
 ## 📁 Folder Structure
 
-![Folder Structure](./Images/folder.png)
+![Folder Structure](./images/folder-str-img.png)
 
 ## Contributors 🤝
 
